@@ -1,0 +1,11 @@
+.bottom-footer{
+    padding-top: 5%;
+    background-color: rgba(216, 206, 206, 0.185);
+    padding: 40px 60px;
+    text-align: center;
+    font-family: "Peddana", serif;
+    letter-spacing: 4px;
+    font-size: 18px;
+    /* margin: 10px 20px ; */
+    
+}

@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Peddana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+#logo-Login{
+    width: 12em;
+    margin: auto;
+    display: block;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.bottom-border{
+    border-bottom: 1px solid rgba(143, 143, 143, 0.151);;
+   margin:0% 10%  0% 10%;
+}
+NavLink{
+    border-bottom: 1px solid rgba(143, 143, 143, 0.151);;
+    margin:0% 5%  0% 5%;
+}
+#login-image{
+    margin-left: 12%;
+    width: 85%;
+    margin-bottom: 5%;
+}
+
+/* .wrap{
+    display: inline-flex
+} */
+.login-form{
+    margin-left: 15%;
+    margin-top: 12%;
+}
+#login-label{
+    font-family: "Assistant", sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.input-style1{
+    width: 60%;
+  padding: 5px;
+  margin-bottom: 4%;
+}
+.input-style2{
+    width: 60%;
+    padding: 5px;
+  margin-bottom: 4%;
+}
+
+#login-button{
+  width: 60%;
+  padding: 5px;
+  margin-bottom: 4%;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  letter-spacing: 4px;
+  background-color: gray;
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: bold;
+}
+#member-button{
+  width: 60%;
+  padding: 2px;
+  margin-bottom: 4%;
+  text-align: center;
+  letter-spacing: 4px;
+  font-size: 15px;
+  border-radius: 5px;
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: bold;
+}
+.password-login{
+    font-family: 'PT Sans', sans-serif;
+   font-size: 14px;
+}
+#password{
+   padding-left: 21%;
+}
+
+#footer-login{
+    padding-top: 5%;
+    background-color: rgba(216, 206, 206, 0.185);
+    padding: 23px 60px;
+    text-align: center;
+    font-family: "Peddana", serif;
+    letter-spacing: 4px;
+    font-size: 20px;
+   
+}
+
+.footer-login{ 
+    font-size: 19px;
+    letter-spacing: normal;
+    padding-top: 7px;
+    color: rgb(77, 75, 75);
+}

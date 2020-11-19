@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Peddana&display=swap');
+
+
+#logo {
+    width: 24%;
+	margin-left: 90%;
+    margin-top: 4%;
+    margin-bottom: 5%;
+    
+}
+
+.no-outline {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-color: rgba(134, 98, 9, 0.781);
+}
+
+.no-outline:focus {
+    outline: none;
+}
+
+.fas {
+    color: rgba(134, 98, 9, 0.781);
+}
+
+.input-header {
+    /* margin: 7% 32%; */
+    display: flex;
+    float: right;
+    margin-top: 7%;
+    margin-right: 10%;
+}
+
+
+.links {
+    padding: 10px 28px;
+    color: black;
+    font-family: 'Peddana', serif;
+    font-size: 20px;
+}
+
+.images{
+    width: 96%;
+    height: 360px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+   
+}
+/* Remove Box Shadow around Navbar */
+.navbar.navbar-default {
+    background-color: #99ccff;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.navbar.navbar-default .mx-auto {
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.text-align{
+    text-align: center;
+    font-family: 'Peddana', serif;
+    align-items: center;
+    margin-bottom: 5%;
+    font-size: 58px;
+    letter-spacing: 5px;
+}
+

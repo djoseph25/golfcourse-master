@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+.images{
+    width:95%;
+   height:550px;
+   object-fit:cover;
+   object-position:50% 50%;
+}
+
+.listing {
+  text-align: center;
+/* font-family: 'Cormorant Garamond', serif; */
+  font-family: 'Cinzel', serif;
+  letter-spacing: 3px;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  font-size: 23px;
+  
+}
+.above-line{
+  border-top:1px solid rgba(134, 98, 9, 0.781);
+  border-color: rgba(134, 98, 9, 0.781);
+  width: 13%;
+  margin: auto;
+  margin-top: 10%;
+}
+.bottom-line {
+  border-bottom: 1px solid rgba(134, 98, 9, 0.781);
+  border-color: rgba(134, 98, 9, 0.781);
+  width: 13%;
+  margin: 0 auto;
+  margin-bottom: 10%;
+}
+/* pic title with button */
+
+.Isle-listing {
+  margin-left: 7%;
+  font-family: 'Cinzel', serif;
+  letter-spacing: 5px;
+  margin-top: 8%;
+  margin-bottom: 3%;
+  font-size: 27px;
+  font-weight:590;
+}
+.listing-info {
+  margin-top: 0.5%;
+  margin-left: 7%;
+  font-family: "Assistant", sans-serif;
+  font-size: 12px;
+  margin-bottom: 5%;
+}
+.listing-button {
+  display: flex;
+  text-align: center;
+  border: 1px solid rgba(134, 98, 9, 0.781);
+  padding: 7px 30px;
+  margin-left: 8%;
+  margin-bottom: 5%;
+  color: rgba(134, 98, 9, 0.781);
+  letter-spacing: 3px;
+  font-family: "Peddana", serif;
+  font-size: 21px;
+  background-color: white;
+  margin-bottom: 13%;
+}
+/* Red FLower */
+.garden{
+    margin-left: 52%;
+}
+
+.New-Homes{
+  float: right;
+   font-family: 'Cinzel', serif;
+  letter-spacing: 5px;
+  margin-top: 8%;
+  margin-bottom: 5%;
+  font-size: 27px;
+  font-weight: 700;
+}
+
+.garden-info {
+  margin-top: 0.5%;
+  float: inline-end;
+  font-family: "Assistant", sans-serif;
+  font-size: 12px;
+  margin-bottom: 5%;
+}
+
+.explore-button {
+  float: right;
+  text-align: center;
+  border: 1.5px solid rgba(134, 98, 9, 0.781);
+  padding: 5px 30px;
+  /* margin: auto; */
+  margin-bottom: 5%;
+  color: rgba(134, 98, 9, 0.781);
+  letter-spacing: 3px;
+  font-family: "Peddana", serif;
+  font-size: 21px;
+  background-color: white;
+  margin-bottom: 13%;
+}
+.Homes-championship {
+  background-color: rgba(236, 236, 236, 0.158);
+  padding: 79px 22px;
+  margin-top: 30%;
+  width: 10% 120%;
+  margin-left: 20%;
+}
+/* End info on the LEft */
+/* Schedule A Shwoing */
+.showing {
+  text-align: center;
+/* font-family: 'Cormorant Garamond', serif; */
+  font-family: 'Cinzel', serif;
+  letter-spacing: 3px;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  font-size: 30px;
+  font-weight: 800px
+  
+}
+.above-line-showing{
+  border-top:1px solid rgba(134, 98, 9, 0.781);
+  border-color: rgba(134, 98, 9, 0.781);
+  width: 13%;
+  margin: auto;
+}
+.bottom-line-showing {
+  border-bottom: 1px solid rgba(134, 98, 9, 0.781);
+  border-color: rgba(134, 98, 9, 0.781);
+  width: 13%;
+  margin: 0 auto;
+  margin-bottom: 5%;
+}
+/* End */
+.course-info {
+  margin-top: 5%;
+  text-align: center;
+  font-family: "Assistant", sans-serif;
+  font-size: 14px;
+  margin-bottom: 5%;
+}
+.club-info {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border: 2px solid rgba(134, 98, 9, 0.781);
+  padding: 7px 30px;
+  margin: auto;
+  margin-bottom: 5%;
+  color: rgba(134, 98, 9, 0.781);
+  letter-spacing: 3px;
+  font-family: "Peddana", serif;
+  font-size: 21px;
+  background-color: white;
+  margin-bottom: 13%;
+}
+
+.club-info:hover {
+  background-color: rgba(134, 98, 9, 0.781);
+  color: white;
+}
+.club-house {
+  width: 110%;
+  margin-left:50%;
+}
+/* chnage made at margin left */
+
+.move{
+  margin-left: 50rem;
+}
+
+.contains {
+  background-color: rgba(224, 220, 220, 0.199);
+  margin-top: 70px;
+  /* margin-left: 61px; */
+  
+}
+
+
+.learn-more-button {
+  float: right;
+  text-align: center;
+  border: 2px solid rgba(134, 98, 9, 0.781);
+  padding: 5px 30px;
+  /* margin: auto; */
+  margin-bottom: 5%;
+  color: rgba(134, 98, 9, 0.781);
+  letter-spacing: 3px;
+  font-family: "Peddana", serif;
+  font-size: 21px;
+  background-color: white;
+  margin-bottom: 13%;
+}
+
+.championship-photo {
+  margin-top:28% ;
+  width: 110%;
+  margin-bottom: 30% ;
+}
+.round {
+  display: flex;
+  align-content: center;
+  float: right;
+}
+/* COurse Statement */
+.statement{
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+    padding-bottom: 3%;
+}
+.unique-statement{
+    text-align: center;
+    font-family: "Peddana", serif;
+    font-size:22px;
+    letter-spacing: 4px;
+    color: gray;
+    padding-bottom: 12%;
+}
+
+.bottom-info{
+    padding-top: 5%;
+    background-color: rgba(216, 206, 206, 0.185);
+    padding: 40px 60px;
+    text-align: center;
+    font-family: "Peddana", serif;
+    letter-spacing: 4px;
+    font-size: 20px;
+    margin: 10px 20px ;
+}
+.showing-text{
+    text-align: center;
+    font-size: 14px;
+    
+}
+/* Submit Button real Estate Page */
+.estate-submit-button{
+  margin-top: 1%;
+  text-align: center;
+  border: 2px solid rgba(134, 98, 9, 0.781);
+  padding: 5px 35px;
+  color: rgba(134, 98, 9, 0.781);
+  letter-spacing: 3px;
+  font-family: "Peddana", serif;
+  font-size: 21px;
+  background-color: white;
+  margin-bottom: 5%;
+}
+.estate-submit-button:hover{
+   background-color: rgba(134, 98, 9, 0.781);
+  color: white;
+}

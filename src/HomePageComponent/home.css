@@ -1,0 +1,287 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Peddana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@300&display=swap"); */
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@450&display=swap');
+.Isle {
+  text-align: center;
+  font-family: "Peddana", serif;
+  letter-spacing: 5px;
+  margin-top: 8%;
+  margin-bottom: 2%;
+}
+.vertical-line {
+  border-bottom: 1px solid rgba(134, 98, 9, 0.781);
+  border-color: rgba(134, 98, 9, 0.781);
+  width: 15%;
+  margin: 0 auto;
+}
+.course-info {
+  margin-top: 5%;
+  text-align: center;
+  font-family: "Assistant", sans-serif;
+  font-size: 14px;
+  margin-bottom: 5%;
+}
+.club-info {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border: 2px solid rgba(134, 98, 9, 0.781);
+  padding: 7px 30px;
+  margin: auto;
+  margin-bottom: 5%;
+  color: rgba(134, 98, 9, 0.781);
+  letter-spacing: 3px;
+  font-family: "Peddana", serif;
+  font-size: 21px;
+  background-color: white;
+  margin-bottom: 13%;
+}
+
+.club-info:hover {
+  background-color: rgba(134, 98, 9, 0.781);
+  color: white;
+}
+/* View Offering */
+
+
+/*  */
+
+.club-info2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border: 2px solid rgba(134, 98, 9, 0.781);
+  padding: 7px 30px;
+  margin: auto;
+  margin-bottom: 5%;
+  color: rgba(134, 98, 9, 0.781);
+  letter-spacing: 3px;
+  font-family: "Peddana", serif;
+  font-size: 21px;
+  background-color: white;
+  margin-bottom: 13%;
+  
+}
+.course-info2 {
+  margin-top: 0.5%;
+  margin-left: 7%;
+  font-family: "Assistant", sans-serif;
+  font-size: 12px;
+  margin-bottom: 5%;
+}
+.Isle2 {
+  margin-left: 7%;
+  font-family: "Peddana", serif;
+  letter-spacing: 5px;
+  margin-top: 8%;
+  margin-bottom: 2%;
+}
+
+.contains {
+  background-color: rgba(224, 220, 220, 0.199);
+  padding: 1px;
+  margin-top: 70px;
+  margin-left: 68px;
+  width: 10% 100%;
+}
+.contains-championship {
+  background-color: rgba(255, 253, 253, 0.726);
+  padding: 2px 21px;
+  margin-top: 50%;
+  width: 10% 120%;
+  margin-left: 20%;
+}
+
+.title-championship {
+  float: right;
+  font-family: "Peddana", serif;
+  letter-spacing: 5px;
+  margin-top: 8%;
+  margin-bottom: 2%;
+}
+.learn-more-button {
+  float: right;
+  text-align: center;
+  border: 2px solid rgba(134, 98, 9, 0.781);
+  padding: 5px 30px;
+  /* margin: auto; */
+  margin-bottom: 5%;
+  color: rgba(134, 98, 9, 0.781);
+  letter-spacing: 3px;
+  font-family: "Peddana", serif;
+  font-size: 21px;
+  background-color: white;
+  margin-bottom: 13%;
+}
+.course-info-championship {
+  margin-top: 0.5%;
+  float: inline-end;
+  font-family: "Assistant", sans-serif;
+  font-size: 12px;
+  margin-bottom: 5%;
+}
+.championship-photo {
+  margin-top:28% ;
+  width: 110%;
+  margin-bottom: 30% ;
+}
+.round {
+  display: flex;
+  align-content: center;
+  float: right;
+}
+/* COurse Statement */
+.statement{
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+    padding-bottom: 3%;
+}
+.unique-statement{
+    text-align: center;
+    font-family: "Peddana", serif;
+    font-size:22px;
+    letter-spacing: 4px;
+    color: gray;
+    padding-bottom: 12%;
+}
+
+.bottom-info{
+    padding-top: 5%;
+    background-color: rgba(216, 206, 206, 0.185);
+    padding: 40px 60px;
+    text-align: center;
+    font-family: "Peddana", serif;
+    letter-spacing: 4px;
+    font-size: 20px;
+    margin: 10px 20px ;
+}
+/* css grid */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding-bottom: 15%;
+}
+.grid-item {
+ align-self: center;
+  justify-self: center;
+  
+}
+#offering-image{
+  width: 32vw;
+  margin-left: -5rem;
+  min-width: 70% !important;
+}
+.info{
+  background-color: rgba(216, 206, 206, 0.185);
+  width: 100%;
+  height:55%;
+ padding: 25px;
+  margin-right: 20px;
+}
+@media  screen and (max-width: 1320px) {
+  .info {
+    height: 65%;  
+  }
+  #offering-image{
+    width: 48vw !important;
+  }
+}
+@media screen and (max-width: 1320px) {
+  #offering-image{
+    width: 55vw;  
+    padding-left: 10%;
+  }
+}
+
+
+.view-listing {
+  margin-left: 7%;
+   font-family: 'Sura', serif;
+  letter-spacing: 5px;
+  margin-top: 2%;
+  margin-bottom: 4%;
+  font-size: 26px;
+}
+.viewing-button {
+  display: flex;
+  text-align: center;
+  border: 1px solid rgba(134, 98, 9, 0.781);
+  padding: 5px 30px;
+  margin-bottom: 5%;
+  color: rgba(134, 98, 9, 0.781);
+  letter-spacing: 3px;
+  font-family: "Peddana", serif;
+  font-size: 21px;
+  background-color: white;
+  margin-bottom: 18%;
+  margin-left: 37px;
+}
+.course-info2 {
+  margin-top: 0.5%;
+font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  margin-bottom: 5%;
+}
+/* champioship golf */
+#championship-image{
+  width: 32vw;
+  margin-right: -4rem;
+  min-width: 70% !important;
+}
+.show-listing {
+  margin-left: 7%;
+   font-family: 'Sura', serif;
+  letter-spacing: 8px;
+  margin-top: 2%;
+  margin-bottom: 4%;
+  font-size: 30px;
+  float: right;
+}
+.golf-info {
+  margin-top: 0.5%;
+font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  margin-bottom: 5%;
+  float: right;
+  padding-left:40px ;
+}
+
+.show-button {
+  display: flex;
+  text-align: center;
+  border: 2px solid rgba(100, 76, 14, 0.781);
+  padding: 7px 35px;
+  margin-bottom: 5%;
+  color: rgba(134, 98, 9, 0.781);
+  letter-spacing: 3px;
+  font-family: "Peddana", serif;
+  font-size: 21px;
+  background-color: white;
+  margin-bottom: 18%;
+  float: right;
+}
+.info2{
+ 
+  width: 100%;
+  height:55%;
+ padding: 25px;
+  margin-right: 20px;
+}
+@media  screen and (max-width: 1320px) {
+  .info2 {
+    height: 65%;  
+  }
+  #championship-image{
+    width: 48vw !important;
+  }
+}
+@media screen and (max-width: 1320px) {
+  #championship-image{
+    width: 55vw;  
+    padding-left: 10%;
+  }
+}
+/* r */

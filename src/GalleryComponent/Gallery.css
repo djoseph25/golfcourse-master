@@ -1,0 +1,86 @@
+#modalpic{
+    width: 100%;
+    height: 53%;
+    padding-bottom: 10%;
+    cursor: pointer;
+}
+#bullimage{
+    width: 100%;
+    height: 101.5%;
+}
+.d-block{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+/* COurse Statement */
+.Gallerystatement{
+    margin-top: 8%;
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+    font-size: 28px;
+    letter-spacing: 1px;
+}
+.Report{
+    text-align: center;
+    font-family: "Peddana", serif;
+    font-size:18px;
+    letter-spacing: 2px;
+    padding-bottom: 6%;
+}
+/* Gallery Row */
+#modalpic2{
+    width: 100%;
+    height: 70%;
+    cursor: pointer;
+}
+
+#pic1{
+width:100%;
+margin: auto;
+}
+
+#body{
+   height: 100%;
+}
+
+.GalleryRowStatement{
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+.Travel{
+    text-align: center;
+    font-family: "Peddana", serif;
+    font-size:18px;
+    letter-spacing: 2px;
+    padding-bottom: 7%;
+}
+
+/* Third Styling Campers Boats */
+
+#modalpic1{
+    width: 100%;
+    height: 40%;
+    padding-bottom: 9%;
+    cursor: pointer;
+}
+#boatimage{
+    width: 100%;
+    height: 77%;
+}
+
+.Islestatement{
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+    font-size: 28px;
+    letter-spacing: 2px;
+}
+.Owner{
+    text-align: center;
+    font-family: "Peddana", serif;
+    font-size:18px;
+    letter-spacing: 2px;
+    padding-bottom: 4%;
+}

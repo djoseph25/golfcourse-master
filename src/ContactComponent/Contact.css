@@ -1,0 +1,176 @@
+@import url("https://fonts.googleapis.com/css2?family=Peddana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bad+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Amiri&display=swap");
+
+#contact {
+  text-align: center;
+  font-family: "Amiri", serif;
+  letter-spacing: 5px;
+  margin-top: 4%;
+  margin-bottom: 2%;
+  font-size: 34px;
+}
+
+#vertical-line {
+  border-bottom: 1px solid rgb(148, 112, 28);
+  margin-right: 44%;
+  margin-left: 44%;
+}
+
+.contact-container {
+  margin: auto;
+  margin-top: 4%;
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-bottom: 8%;
+}
+#contact-title {
+  text-align: center;
+  font-family: "Peddana", serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: rgb(148, 112, 28);
+}
+
+#contact-address {
+  text-align: center;
+  font-size: 13px;
+}
+#contact-number {
+  text-align: center;
+  font-size: 13px;
+  margin-top: 0;
+}
+#contact-email {
+  text-align: center;
+  font-size: 13px;
+}
+#contact-email a {
+  color: rgb(148, 112, 28);
+  text-decoration: underline;
+}
+
+#contact-email a:hover {
+  color: rgb(175, 174, 174);
+}
+
+#vertical-line-2 {
+  margin-top: 15%;
+  border-bottom: 1px solid rgb(148, 112, 28);
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+#inquiry {
+  text-align: center;
+  font-family: "Amiri", serif;
+  letter-spacing: 5px;
+  margin-top: 12%;
+  margin-bottom: 2%;
+  font-size: 34px;
+}
+#learn-more-p {
+  text-align: center;
+  font-size: 13px;
+}
+
+#learn-more-p-2 {
+  text-align: center;
+  font-size: 13px;
+}
+
+a {
+  color: rgb(148, 112, 28);
+}
+/* Contact Form */
+
+#contact-form {
+  margin-left: 30%;
+  margin-top: 5%; 
+}
+#lastname {
+  margin-left: 14px;
+  width: 30%;
+  padding: 7px;
+  
+}
+#firstname {
+  width: 30%;
+  padding: 7px;
+}
+
+.same-line {
+  display: block;
+}
+
+#email{
+    width: 61.5%;
+    padding: 7px;
+}
+#message-box{
+    width: 61.5%;
+    padding: 5%;
+    margin-bottom: 3%;
+}
+#area{
+width: 6%;
+margin-right:12px ;
+padding:6px
+}
+#code{
+width: 7%;
+margin-right:12px ;
+padding:6px
+}
+#code2{
+width: 8%;
+padding:6px
+}
+
+
+
+#contactpage-form{
+font-family: "Amiri", serif;
+font-size: 14px;
+}
+#message {
+    margin-top: 20px;
+    color: rgb(75, 75, 75);
+}
+#phone{
+    margin-top: 20px;
+    color: rgb(75, 75, 75);
+}
+#name{
+    margin-top: 20px;
+   color: rgb(75, 75, 75);
+}
+.email{
+    margin-top: 20px;
+    color: rgb(75, 75, 75);
+}
+
+/* Select Option */
+.contact-submit-button{
+  margin-top: 3%;
+  margin-left: 25%;
+  text-align: center;
+  border: 2px solid rgba(134, 98, 9, 0.781);
+  padding: 5px 35px;
+  margin-bottom: 5%;
+  color: rgba(134, 98, 9, 0.781);
+  letter-spacing: 3px;
+  font-family: "Peddana", serif;
+  font-size: 21px;
+  background-color: white;
+  margin-bottom: 13%;
+}
+.contact-submit-button:hover{
+   background-color: rgba(134, 98, 9, 0.781);
+  color: white;
+}
+.conact{  
+  background: goldenrod;
+  width: 100%;
+}
