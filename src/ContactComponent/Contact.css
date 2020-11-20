@@ -52,7 +52,7 @@
 }
 
 #contact-email a:hover {
-  color: rgb(175, 174, 174);
+  color: rgb(41, 32, 32);
 }
 
 #vertical-line-2 {
@@ -86,17 +86,17 @@ a {
 /* Contact Form */
 
 #contact-form {
-  margin-left: 30%;
+  margin-left: 34%;
   margin-top: 5%; 
 }
 #lastname {
   margin-left: 14px;
-  width: 30%;
+  width: 25%;
   padding: 7px;
   
 }
 #firstname {
-  width: 30%;
+  width: 25%;
   padding: 7px;
 }
 
@@ -105,11 +105,11 @@ a {
 }
 
 #email{
-    width: 61.5%;
+    width: 51%;
     padding: 7px;
 }
 #message-box{
-    width: 61.5%;
+    width: 51%;
     padding: 5%;
     margin-bottom: 3%;
 }
@@ -136,7 +136,7 @@ font-size: 14px;
 }
 #message {
     margin-top: 20px;
-    color: rgb(75, 75, 75);
+    color: rgb(99, 96, 96);
 }
 #phone{
     margin-top: 20px;
@@ -153,10 +153,10 @@ font-size: 14px;
 
 /* Select Option */
 .contact-submit-button{
-  margin-top: 3%;
-  margin-left: 25%;
+  margin-top: 1%;
+  margin-left: 20%;
   text-align: center;
-  border: 2px solid rgba(134, 98, 9, 0.781);
+  border: 2px solid rgba(88, 66, 10, 0.781);
   padding: 5px 35px;
   margin-bottom: 5%;
   color: rgba(134, 98, 9, 0.781);

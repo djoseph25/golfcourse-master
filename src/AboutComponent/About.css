@@ -1,0 +1,25 @@
+.about-info{
+     font-family: 'Raleway', sans-serif;
+     font-size: 13px;
+     text-align: center;
+     /* padding-left:14%;
+     padding-right: 14%; */
+     padding: 8% 14%;
+}
+#vertical-line-center {
+  border-bottom: 1px solid rgb(148, 112, 28);
+  margin-right: 44%;
+  margin-left: 44%;
+}
+
+#center-every {
+  text-align: center;
+  font-family: "Amiri", serif;
+  letter-spacing: 5px;
+  margin-bottom: 5%;
+  font-size: 34px;
+}
+#map{
+   width: 100%;
+   margin-bottom: 7%;
+}
