@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { Row, Col } from 'reactstrap';
 import { Collapse, Navbar, NavbarToggler, NavbarBrand, Nav } from 'reactstrap';
-import {  NavLink } from "react-router-dom";
+import {  NavLink, Link } from "react-router-dom";
 import './Header.css';
 import Example from './home'
 // import Login from '../LoginPageComponent/LoginPage';
@@ -22,11 +22,12 @@ const Header = (props) => {
     return (
         <div>
             <Row >
-                <Col  >
-                    <img
+                <Col>
+                <Link to='/'><img
                        id='logo'
                     src="https://static1.squarespace.com/static/5ba3a44e3917ee6c7e99a2ae/t/5bbcc0ade5e5f0519d9f6f8b/1596813450709/?format=1500w"
-                    />
+                    /></Link>
+                    
                 </Col>
                 <Col  >
                     <div className="input-header">
